@@ -1,0 +1,8 @@
+{
+  "name": "Your Happiness Tours",
+  "description": "Premium warm-earthy travel agency website for high-end luxury Bali tours, private rentals, and premium transport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
